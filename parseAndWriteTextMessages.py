@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/Users/Brandon/Documents/Python/custom_modules')  # noqa
+sys.path.append('/path/to/ExcelColumnHeaders')  # noqa
 from ExcelColumnHeaders import getColumnHeaders
 from collections import OrderedDict
 from openpyxl.utils import get_column_letter
